@@ -5,10 +5,6 @@ Customizing the Directus app with a specific color can be a hassle due to the ne
 
 > _**TLDR**: Easier way to apply a custom color with a webapp color converter._
 
-**https://heuve.link/directus-themebuilder**
-
-![Preview](https://i.imgur.com/TjqUTRp.png)
-
 # Build with
 
 - NextJS [(site)](https://nextjs.org)
